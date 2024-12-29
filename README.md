@@ -17,7 +17,7 @@ Ce mod améliore les sorts d'invocation :
 - À partir du niveau 21 : version IWD : attaque à distance, 2D10 tranchants +1D10 magiques, toucher +14, enchantement +4, autorise le bonus de force, +1 APR. 
 
 <ins>Invocations angéliques :</ins>
-Tous les anges sont améliorés
+- Tous les anges sont améliorés.
 - À partir du niveau 35 les mages peuvent invoquer un solaire/solaire déchu.
 - À partir du niveau 26 les clercs peuvent invoquer un solaire/solaire déchu.
 
