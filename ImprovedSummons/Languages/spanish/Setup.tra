@@ -1,0 +1,34 @@
+@1  = ~Mejorar Convocaciones Angelicales (Requiere ToB)~ 
+@2  = ~Mejorar Convocaciones Demoniacas (Requiere ToB)~
+@3  = ~Mejorar Convocaciones de Elementales (Requiere ToB)~ 
+@4  = ~Usar version de IWD de la Espada de Mordenkainen luego del nivel 21~
+@5  = ~Mejorar Animacion de la muerte (Requiere ToB)~ 
+@6  = ~Mejorar la llamada de los Seres del Bosque~
+@7  = ~Mejorar Convocar Animales~
+@8  = ~Mejorar Convocar Monstruos~ 
+@9  = ~Reemplazar Convocar Carroñeros con Convocar Contempladores~
+@10 = ~Reemplazar Convocar Draco con Convocar Vampiro~ 
+@11 = ~Otros (Ifriti, Djinni, etc.)~
+@12 = ~Gelugon~
+@13 = ~Guarda de Huesos~ 
+@14 = ~Convocar Contemplador~
+@15 = ~Convocar Contemplador  (Conjuración / Invocación)
+Nivel: 6
+Alcance: 36 metros
+Duración: 5 asaltos
+Tiempo de lanzamiento: 5
+Área de efecto: Especial
+Tiro de salvación: Ninguno
+
+Cuando este hechizo es lanzado el mago abre un canal mágico que convoca a un contemplador en su ayuda. En un nivel inferior, el mago sólo puede convocar a un Gauth, pero después de nivel 20 el mago puede convocar a un terrible contemplador.~ 
+@16 = ~Convocar Vampiro~
+@17 = ~Convocar Vampiro  (Conjuración / Invocación)
+Nivel: 6
+Alcance: 36 metros
+Duración: 5 asaltos
+Tiempo de lanzamiento: 5
+Área de efecto: Especial
+Tiro de salvación: Ninguno
+
+
+Cuando este hechizo es lanzado el asistente abre un canal mágico que convocará a un vampiro en su ayuda. En un nivel inferior, el mago sólo puede convocar a un vampiro joven, pero después de nivel 20 el mago puede convocar a un poderoso vampiro.~

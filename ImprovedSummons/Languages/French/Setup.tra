@@ -1,0 +1,38 @@
+@1=~Convocations Angeliques Ameliorees (ToB requis)~
+@2=~Convocations Demoniques Ameliorees (ToB requis)~
+@3=~Convocations Elementaires Ameliorees (ToB requis)~
+@4=~Utiliser la version IWD de l'Epee de Mordenkainen apres le niveau 21~
+@5=~Animation des Morts Amelioree (ToB requis)~
+@6=~Appel de Creatures des Bois Amelioree~
+@7=~Convocations d'Animaux Ameliorees~
+@8=~Convocations de Monstres Ameliorees~
+@9=~Remplacer Convocation de Vers Charognards par Convocation de Spectateur~
+@10=~Remplacer Appel de la Wyverne par Convocation de Vampire~
+@11=~Autres (Djinns, Efrits, etc.)~
+
+@12=~Gélugon~
+@13=~Garde Squelette~ 
+
+@14=~Convocation de Spectateur~
+@15=~Convocation de Spectateur (Conjuration/Convocation)
+
+Niveau : 6 
+Portée : 36 mètres 
+Durée : 5 Tours
+Temps d'incantation : 5
+Zone d'effet : Spécial
+Jet de sauvegarde : aucun
+
+Quand ce sort est lancé, le magicien ouvre un canal magique qui lui permet d'appeler un spectateur à son aide. A bas niveau, le magicien ne pourra convoquer qu'un Gauth, mais au-delà du niveau 20, il convoquera un terrible Spectateur.~
+
+@16=~Convocation de Vampire~
+@17=~Convocation de Vampire (Conjuration/Convocation)
+
+Niveau : 6
+Portée : 36 mètres
+Durée : 5 Tours
+Temps d'incantation : 5
+Zone d'effet : Spécial
+Jet de sauvegarde : aucun
+
+Quand ce sort est lancé, le magicien ouvre un canal magique qui lui permet d'appeler un vampire à son aide. A bas niveau, le magicien ne peut convoquer qu'un vampire novice, mais au-delà du niveau 20, il convoquera un vampire puissant.~

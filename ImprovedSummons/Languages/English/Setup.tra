@@ -1,0 +1,36 @@
+@1=~Improved Angelic Summons(ToB Required)~
+@2=~Improved Demonic Summons(ToB Required)~
+@3=~Improved Elemental Summons(ToB Required)~
+@4=~Use IWD Version Mordenkainen Sword after lv21~
+@5=~Improved Animate Dead(ToB Required)~
+@6=~Improved Call Woodland Being~
+@7=~Improved Animal Summons~
+@8=~Improved Monster Summons~
+@9=~Replace Carrion Summons with Summon Beholder~
+@10=~Replace Wyvern Call with Summon Vampire~
+@11=~Others(Efreet,Djinni,etc.)~
+
+@12=~Gelugon~
+@13=~Boneguard~
+
+@14=~Summon Beholder~
+@15=~Summon Beholder (Conjuration/Summoning) 
+Level: 6
+Range: 40 yards 
+Duration: 5 Turns
+Casting Time: 5
+Area of Effect: Special 
+Saving Throw: None 
+
+When this spell is cast the wizard opens up a magical channel that will summon a beholder to his aid. At a lower level, the wizard can only summon a Gauth, but after 20th level the wizard will summon a dreadful Beholder.~
+
+@16=~Summon Vampire~
+@17=~Summon Vampire (Conjuration/Summoning) 
+Level: 6
+Range: 40 yards 
+Duration: 5 Turns
+Casting Time: 5
+Area of Effect: Special 
+Saving Throw: None 
+
+When this spell is cast the wizard opens up a magical channel that will summon a vampire to his aid. At a lower level, the wizard can only summon a Fledgling Vampire, but after 20th level the wizard will summon a powerful Vampire.~
