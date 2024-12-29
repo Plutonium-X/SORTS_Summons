@@ -1,0 +1,83 @@
+BACKUP ~ImprovedSummons\backup~
+AUTHOR ~wumin0706@hotmail.com~ 
+
+ALWAYS
+ ACTION_DEFINE_ARRAY tra_reload BEGIN Setup END
+ LAF HANDLE_CHARSETS
+ INT_VAR
+ infer_charset = 1
+ STR_VAR
+ tra_path = EVAL ~%MOD_FOLDER%/Languages~
+ reload_array = tra_reload
+ END
+ END
+
+LANGUAGE ~Chinese~
+         ~Chinese~
+         ~ImprovedSummons/Languages/Chinese/Setup.tra~
+
+LANGUAGE ~English~
+         ~English~
+         ~ImprovedSummons/Languages/English/Setup.tra~
+
+LANGUAGE ~French (Thanks to Galathee (from the d'Oghmatiques))~
+         ~French~
+         ~ImprovedSummons/Languages/French/Setup.tra~
+
+LANGUAGE ~Russian (Austin & aerie.ru. Update by Prowler)~
+         ~Russian~
+         ~ImprovedSummons/Languages/Russian/Setup.tra~
+
+LANGUAGE ~Castellano por Lisandro~
+         ~Spanish~
+         ~ImprovedSummons/Languages/spanish/Setup.tra~
+		 
+		 
+BEGIN @1
+REQUIRE_FILE ~Data/25Dialog.bif~ @1
+COPY ~ImprovedSummons/Angelic Summons~ ~override~
+
+BEGIN @2
+REQUIRE_FILE ~Data/25Dialog.bif~ @2
+COPY ~ImprovedSummons/Demonic Summons~ ~override~
+COPY ~ImprovedSummons/Demonic Summons/DEMGELSU.CRE~ ~override/DEMGELSU.CRE~
+SAY NAME1 @12 SAY NAME2 @12
+
+BEGIN @3
+REQUIRE_FILE ~Data/25Dialog.bif~ @3
+COPY ~ImprovedSummons/Elemental Summons~ ~override~
+
+BEGIN @4
+COPY ~ImprovedSummons/Mordenkainen Sword~ ~override~
+
+BEGIN @5
+REQUIRE_FILE ~Data/25Dialog.bif~ @5
+COPY ~ImprovedSummons/Animate Dead~ ~override~
+COPY ~ImprovedSummons/Animate Dead/SKELBONE.CRE~ ~override/SKELBONE.CRE~
+SAY NAME1 @13 SAY NAME2 @13
+
+BEGIN @6
+COPY ~ImprovedSummons/Call Woodland Being~ ~override~
+
+BEGIN @7
+COPY ~ImprovedSummons/Animal Summons~ ~override~
+
+BEGIN @8
+COPY ~ImprovedSummons/Monster Summons~ ~override~
+
+BEGIN @9
+COPY ~ImprovedSummons/Beholder~ ~override~
+COPY ~ImprovedSummons/Beholder/SPWI623.SPL~ ~override/SPWI623.SPL~
+SAY NAME1 @14 SAY UNIDENTIFIED_DESC @15
+COPY ~ImprovedSummons/Beholder/SCRL8A.ITM~ ~override/SCRL8A.ITM~
+SAY NAME2 @14 SAY DESC @15
+
+BEGIN @10
+COPY ~ImprovedSummons/Vampire~ ~override~
+COPY ~ImprovedSummons/Vampire/SPWI619.SPL~ ~override/SPWI619.SPL~
+SAY NAME1 @16 SAY UNIDENTIFIED_DESC @17
+COPY ~ImprovedSummons/Vampire/SCRL7W.ITM~ ~override/SCRL7W.ITM~
+SAY NAME2 @16 SAY DESC @17
+
+BEGIN @11
+COPY ~ImprovedSummons/Others~ ~override~
