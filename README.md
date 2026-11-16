@@ -62,6 +62,7 @@ Ce mod améliore les sorts d'invocation :
 - IWDisation
 - SCS
 - Tous les mods qui cherchent à patcher les sorts vanilla.
+   
 **Note spéciale** : ce mod doit être installé AVANT tactics.
 
  -------------------------
